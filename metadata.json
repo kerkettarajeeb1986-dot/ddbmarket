@@ -1,0 +1,6 @@
+{
+  "name": "Dooars Daily Basket - Market Partner",
+  "description": "Official Market Partner Portal for Dooars Daily Basket sellers to manage stores, catalog, inventory, orders with loud incoming bell alerts, delivery partner continuous alarm dispatch, courier shipping, earnings, and payouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
